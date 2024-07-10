@@ -1,5 +1,5 @@
-const palindrome = () => {
-  console.log("hello world");
+const palindrome1 = () => {
+  console.log("hello world 1");
 };
 
 const func = () => {
